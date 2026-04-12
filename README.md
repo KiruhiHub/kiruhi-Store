@@ -23,26 +23,40 @@
 ## Why people use it
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg" width="18" style="filter: invert(70%) sepia(80%) saturate(500%) hue-rotate(10deg);" />
-  <b>Fast installs</b> — apps in seconds
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg" width="18" />
+  <b>Instant install flow</b> — one click install, no waiting
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg" width="18" style="filter: invert(40%) sepia(90%) saturate(300%) hue-rotate(180deg);" />
-  <b>No setup</b> — just open and use
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/sparkles.svg" width="18" />
+  <b>AI-powered app discovery</b> — find apps by what you want
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/sparkles.svg" width="18" style="filter: invert(60%) sepia(90%) saturate(400%) hue-rotate(250deg);" />
-  <b>Clean design</b> — simple and modern
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/search.svg" width="18" />
+  <b>Smart search</b> — type naturally like “video edit app”</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/package.svg" width="18" />
+  <b>One hub for all apps</b> — everything in one place
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/package.svg" width="18" style="filter: invert(55%) sepia(80%) saturate(350%) hue-rotate(120deg);" />
-  <b>All in one</b> — everything together
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/refresh-cw.svg" width="18" />
+  <b>Auto-update system</b> — apps stay updated automatically
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/shield-x.svg" width="18" style="filter: invert(35%) sepia(90%) saturate(600%) hue-rotate(320deg);" />
-  <b>No errors</b> — smooth experience
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/cpu.svg" width="18" />
+  <b>No-setup installation</b> — open and use instantly
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/globe.svg" width="18" />
+  <b>Cross-device support</b> — use on all your devices
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/zap.svg" width="18" style="filter: hue-rotate(200deg);" />
+  <b>Fast install queue</b> — install multiple apps at once
 </p>
